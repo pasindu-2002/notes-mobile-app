@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Note Application</title>
+</head>
+<body>
     <h1>Note Application</h1>
 
     <h2>Project Overview</h2>
@@ -63,3 +70,5 @@
 
     <h2>Contributing</h2>
     <p>If you would like to contribute to this project, please fork the repository and submit a pull request. For significant changes, please open an issue first to discuss the change.</p>
+</body>
+</html>
