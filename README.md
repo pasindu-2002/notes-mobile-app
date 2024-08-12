@@ -9,8 +9,10 @@ A simple note-taking application for Android that allows users to create, view, 
 - Persistent storage using `SharedPreferences`.
 
 ## Screenshots
-![Screenshot_20240812_180857](https://github.com/user-attachments/assets/8e9aef59-dc9c-4d41-ac50-815dd1b0bc53)
-![Screenshot_20240812_180835](https://github.com/user-attachments/assets/eabf1034-33e6-4fc7-9b27-a3380887ee66)
+
+<img src="https://github.com/user-attachments/assets/8e9aef59-dc9c-4d41-ac50-815dd1b0bc53" width="40%" alt="Screenshot 1"/>
+<img src="https://github.com/user-attachments/assets/eabf1034-33e6-4fc7-9b27-a3380887ee66" width="40%" alt="Screenshot 2"/>
+
 
 ## Getting Started
 
